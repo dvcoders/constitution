@@ -1,6 +1,5 @@
 <h1 style="text-align: center">A Constitution for dvcoders</h1>
 
----
 
 ### Name of Organization
 The name of this organization shall be dvcoders. The pronunciation will be dee-vee-coders /di vi ˈkoʊdərz/. The only acceptable casing will be all lowercase.
