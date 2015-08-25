@@ -1,6 +1,5 @@
 <h1 style="text-align: center">A Constitution for dvcoders</h1>
 
----
 
 ### Name of Organization
 The name of this organization shall be dvcoders. The pronunciation will be dee-vee-coders /di vi ˈkoʊdərz/. The only acceptable casing will be all lowercase.
@@ -9,7 +8,6 @@ The name of this organization shall be dvcoders. The pronunciation will be dee-v
 - Develop individual capacity to learn and implement new Computer Science concepts
 - To expose students to tools(APIs, frameworks, Systems, etc) that are common in software development.
 - Expose members to team based project collaboration for software development.
-- Field teams for competitions.
 
 ### Membership
 Membership is limited to current Diablo Valley College students only.
@@ -45,7 +43,7 @@ If the kernel cannot find a willing member to fill a role(s) which they have bee
 | float - Treasurer                 | <ul> <li>Administer funds and finances for club.</li> <li>Keep financial records of activities and events.</li> <li>Pay bills and release funds as voted by members.</li> <li>Make financial reports when called upon to do so.</li> <li>Work with Club Advisor to insure that funds are properly collected, deposited, and accounted.</li> </ul>                  |
 | Maintainer                        | <ul> <li>Administrate github (users, permissions, repositories).</li> <li>Have a full working knowledge of git and github.</li> <li>Manage code repositories on git and github.Code conventions / code review (best practices) protocol.</li> <li>Have high availability to respond to Pull requests and other git/github workflow questions.</li> </ul> |
 | Inter-Club Council Representative | <ul> <li>Attend all ICC meetings.</li> <li>Vote on behalf of the club being represented.</li> <li>Report the results of ICC meetings to the club.</li></ul>                                                                                                                                                                                   |
-| Public Relations                  | <ul> <li>Advocate for dvcoders to classes Have working understanding of club proceduresIntroduce new members to tools that dvcoders is using Provide general overview of current projects</li> </ul>                                                                                                                       |
+| Public Relations                  | <ul> <li>Advocate for dvcoders to classes Have working understanding of club procedures</li><li>Introduce new members to tools that dvcoders is using </li> <li>Provide general overview of current projects</li> </ul>                                                                                                                       |
 | dvcoder Fellow                    | <ul> <li>After significant contribution to dvcoders either in one of the above officer roles or as a general member.</li> <li>They will have the option to become a fellow.</li> <li>Kernel meeting and discussion will be open to fellows.</li></ul>                                                                                        |
 | kernel - Executive Council        | <ul> <li>Formulate policy of the club between regular meetings and, in case of emergencies, subject to approval of the general membership.</li> <li>To execute policies determined by the general membership.</li> <li>To govern the activities of the club.To prepare agendas for general meetings.</li> </ul>                                |
 
@@ -55,4 +53,3 @@ Club President’s Signature: __________________________________________________
 Club Advisor’s Signature: __________________________________________________________
 
 Date: _________________________
-
