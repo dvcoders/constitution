@@ -1,4 +1,4 @@
-# Constitution
+# [Constitution](Consitution.md)
 
 This is the *dvocders* club constitution which governs the actions and procedures of the club. 
 
