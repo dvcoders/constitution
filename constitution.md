@@ -58,7 +58,7 @@ A club officer may be impeached under any or all of the following conditions:
 	- Ex. Maintainer unfamiliar with Git, 2 months later, still unfamiliar.
 - Other immediate issues deemed important.
 
-An impeachment may be initiated by any kernel member or general member. Once an impeachment is in place it is up to 
+An impeachment may be initiated by any kernel member or general member. Once an impeachment is in place, a fifty-percent vote by general members is required to complete the impeachment.
 
 Club President’s Signature: ________________________________________________________
 
