@@ -1,5 +1,4 @@
-<h1 style="text-align: center">A Constitution for dvcoders</h1>
-
+### A Constitution for dvcoders
 
 ### Name of Organization
 The name of this organization shall be dvcoders. The pronunciation will be dee-vee-coders /di vi ˈkoʊdərz/. The only acceptable casing will be all lowercase.
@@ -47,6 +46,19 @@ If the kernel cannot find a willing member to fill a role(s) which they have bee
 | dvcoder Fellow                    | <ul> <li>After significant contribution to dvcoders either in one of the above officer roles or as a general member.</li> <li>They will have the option to become a fellow.</li> <li>Kernel meeting and discussion will be open to fellows.</li></ul>                                                                                        |
 | kernel - Executive Council        | <ul> <li>Formulate policy of the club between regular meetings and, in case of emergencies, subject to approval of the general membership.</li> <li>To execute policies determined by the general membership.</li> <li>To govern the activities of the club.To prepare agendas for general meetings.</li> </ul>                                |
 
+
+### Impeachment of an Officer
+A club officer may be impeached under any or all of the following conditions:
+
+- Consistently unable to complete officer duties effectively or in a timely manner.
+	- Work needed for club success is being bottlenecked by one officer.  
+- Unwelcoming or offensive to any member(s).
+	- Insulting or bias towards any gender, race, ethnicity, etc. (as mentioned above). 
+- Inadequate knowledge for officer position or underwhelming improvement in knowledge since election. 
+	- Ex. Maintainer unfamiliar with Git, 2 months later, still unfamiliar.
+- Other immediate issues deemed important.
+
+An impeachment may be initiated by any kernel member or general member. Once an impeachment is in place it is up to 
 
 Club President’s Signature: ________________________________________________________
 
