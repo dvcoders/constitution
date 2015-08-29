@@ -61,7 +61,7 @@ A club officer may be impeached under any or all of the following conditions:
 An impeachment may be initiated by any kernel member or general member. Once an impeachment is in place, a fifty-percent vote by general members is required to complete the impeachment.
 
 ### Open Source and Amendments 
-The dvcoders constitution will be made open source under the [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/4.0/) for all club members. Access to the constitution will be made available to club members via an open source platform (Github currently) at all times.
+The dvcoders constitution will be made open source under the [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/4.0/legalcode) for all club members. Access to the constitution will be made available to club members via an open source platform (Github currently) at all times.
 
 Any club member wishing to contribute to the constitution may do by *forking* the repository, making changes, then submitting a pull request on Github with *appropriate labels*.
 
