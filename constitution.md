@@ -56,7 +56,7 @@ A club officer may be impeached under any or all of the following conditions:
 	- Insulting or bias towards any gender, race, ethnicity, etc. (as mentioned above). 
 - Inadequate knowledge for officer position or underwhelming improvement in knowledge since election. 
 	- Ex. Maintainer unfamiliar with Git, 2 months later, still unfamiliar.
-- Other immediate issues deemed important.
+- Other immediate issues deemed important by the kernel.
 
 An impeachment may be initiated by any kernel member or general member. Once an impeachment is in place, a fifty-percent vote by general members is required to complete the impeachment.
 
