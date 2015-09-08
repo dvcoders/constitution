@@ -2,7 +2,7 @@
 
 
 ### Name of Organization
-The name of this organization shall be dvcoders. The pronunciation will be dee-vee-coders /di vi ˈkoʊdərz/. The only acceptable casing will be all lowercase.
+The name of this organization shall be dvcoders (changed from *Bits & Bytes*). The pronunciation will be dee-vee-coders /di vi ˈkoʊdərz/. The only acceptable casing will be all lowercase.
 
 ### Purpose of Organization
 - Develop individual capacity to learn and implement new Computer Science concepts
