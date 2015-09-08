@@ -6,7 +6,7 @@ The name of this organization shall be dvcoders. The pronunciation will be dee-v
 
 ### Purpose of Organization
 - Develop individual capacity to learn and implement new Computer Science concepts
-- To expose students to tools(APIs, frameworks, Systems, etc) that are common in software development.
+- To expose students to tools (APIs, frameworks, Systems, etc) that are common in software development.
 - Expose members to team based project collaboration for software development.
 
 ### Membership
