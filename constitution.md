@@ -1,4 +1,4 @@
-<h1 style="text-align: center">A Constitution for dvcoders</h1>
+A Constitution for dvcoders
 
 
 ### Name of Organization
