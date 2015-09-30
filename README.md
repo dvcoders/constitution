@@ -1,6 +1,6 @@
 ## [Constitution](constitution.md)
 
-This is the *dvocders* club constitution which governs the actions and procedures of the club. 
+This is the *dvcoders* club constitution which governs the actions and procedures of the club. 
 
 Any member is welcome to suggest changes, fix typos, and contribute to an open discussion with club leadership in improving our goals.
 
