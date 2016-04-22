@@ -1,6 +1,5 @@
 ## A Constitution for dvcoders
 
-
 ### Name of Organization
 The name of this organization shall be dvcoders (changed from *Bits & Bytes*). The pronunciation will be dee-vee-coders /di vi ˈkoʊdərz/. The only acceptable casing will be all lowercase.
 
@@ -47,6 +46,28 @@ If the kernel cannot find a willing member to fill a role(s) which they have bee
 | dvcoder Fellow                    | <ul> <li>After significant contribution to dvcoders either in one of the above officer roles or as a general member.</li> <li>They will have the option to become a fellow.</li> <li>Kernel meeting and discussion will be open to fellows.</li></ul>                                                                                        |
 | kernel - Executive Council        | <ul> <li>Formulate policy of the club between regular meetings and, in case of emergencies, subject to approval of the general membership.</li> <li>To execute policies determined by the general membership.</li> <li>To govern the activities of the club.To prepare agendas for general meetings.</li> </ul>                                |
 
+
+### Impeachment of an Officer
+A club officer may be impeached under any or all of the following conditions:
+
+- Consistently unable to complete officer duties effectively or in a timely manner.
+	- Work needed for club success is being bottlenecked by one officer.  
+- Unwelcoming or offensive to any member(s).
+	- Insulting or bias towards any gender, race, ethnicity, etc. (as mentioned above). 
+- Inadequate knowledge for officer position or underwhelming improvement in knowledge since election. 
+	- Ex. Maintainer unfamiliar with Git, 2 months later, still unfamiliar.
+- Other immediate issues deemed important by the kernel.
+
+An impeachment may be initiated by any kernel member or general member. Once an impeachment is in place, a fifty-percent vote by general members is required to complete the impeachment.
+
+### Open Source and Amendments 
+The dvcoders constitution will be made open source under the [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/4.0/legalcode) for all club members. Access to the constitution will be made available to club members via an open source platform (Github currently) at all times.
+
+Any club member wishing to contribute to the constitution may do by *forking* the repository, making changes, then submitting a pull request on Github with *appropriate labels*.
+
+The proposed changes will be brought up in the next club meeting as an agenda item by the main. Club members may review the pull request, make comments, and followup changes. Once kernel and members reach a consensus, the proposed changes will be merged.
+
+--
 
 Club President’s Signature: ________________________________________________________
 
